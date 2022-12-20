@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrLinuxOsu
+- 👋 Hi, I’m @LucidTyper
 - 🌱 I’m currently learning computer engineer at college
-- 📫 How to reach me : discord: LinuxOsu#7731
-- 🀄 I speak Spanish, English and a bit of Chinese (also currently learning)
+- 📫 How to reach me : discord: LucidTyper#7511
+- 🀄 I speak Spanish, English and a bit of Chinese (also currently learning, on HSK4)
