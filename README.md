@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @LucidTyper
 - 🌱 I’m currently learning computer engineer at college
-- 📫 How to reach me (or not, since I don't use discord anymore): LucidTyper#7511
 - 🀄 I speak Spanish, English and a bit of Chinese (also currently learning, on HSK4)
