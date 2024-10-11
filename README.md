@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @LucidTyper
 - 🌱 I’m currently learning computer engineer at college
+- So I see you're running \*insert tiling wm here\*... You know I'm actually on GNOME myself. I know this desktop environment is supposed to be better but... You know what they say: old habits, they die hard...
 - 🀄 I speak Spanish, English and a bit of Chinese (also currently learning, on HSK4)
