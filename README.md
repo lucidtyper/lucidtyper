@@ -2,7 +2,7 @@
 
 ## 🧠 About me
 
-- 🎓 Computer Engineering student (`build almost complete - compiling TFG`)
+- 🎓 Computer Engineering student (`build almost complete - compiling Final Year Project`)
 - 🔐 Passionate about cybersecurity & UNIX systems
 - 🧪 Curious mind - I experiment with tech, languages, and music mixing
 - 🖥️ Arch Linux + Hyprland user (GNOME at heart)
