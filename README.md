@@ -4,7 +4,7 @@
 
 - 🎓 Computer Engineering student (`build almost complete - compiling TFG`)
 - 🔐 Passionate about cybersecurity & UNIX systems
-- 🧪 Curious mind — I experiment with tech, languages, and music mixing
+- 🧪 Curious mind - I experiment with tech, languages, and music mixing
 - 🖥️ Arch Linux + Hyprland user (GNOME at heart)
 - 🌍 Languages: Spanish (native), English (B2), Chinese (HSK3), German (basic)
 
