@@ -6,7 +6,7 @@
 - 🔐 Passionate about cybersecurity & UNIX systems
 - 🧪 Curious mind - I experiment with tech, languages, and music mixing
 - 🖥️ Arch Linux + Hyprland user (GNOME at heart)
-- 🌍 Languages: Spanish (native), English (B2), Chinese (HSK3), German (basic)
+- 🌍 Languages: Spanish (native), English (C1 with Aptis ESOL General from the British Council), Chinese (HSK3), German (basic)
 
 ## ⚙️ Tech Stack
 
